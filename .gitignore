@@ -1,6 +1,8 @@
 # compiled output
 /dist
 /node_modules
+/scripts/payloads.json
+/src/users.ts
 
 # Logs
 logs
